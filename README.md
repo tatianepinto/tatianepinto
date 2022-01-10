@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a cross-platform project.
 - 🌱 I’m currently learning ReactJS, React Native and Flutter.
 
-### Some evolution
+### Some progress
 
 ![alt text](tatianesapp.jpeg)
 
