@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a cross-platform project.
+- 🔭 I’m currently working on a migration web PHP / MySQL to ReactJS / Firebase application.
 - 🌱 I’m currently learning ReactJS and React Native.
 
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
